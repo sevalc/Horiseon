@@ -34,11 +34,11 @@ body {
 }
 
 .header nav ul {
-/* List items in navigation bar */
+/* ul List items in navigation bar */
     list-style-type: none;
 }
 
-.header nav ul {
+.header nav li {
 /* Sets display to inline */
     display: inline-block;
     margin-left: 25px;
