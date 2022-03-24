@@ -16,6 +16,7 @@ body {
 }
 
 .header h1 {
+/* Sets display and font size of all elements with class selector*/
     display: inline-block;
     font-size: 48px;
 }
@@ -32,11 +33,13 @@ body {
     font-size: 20px;
 }
 
-.header section nav ul {
+.header nav ul {
+/* List items in navigation bar */
     list-style-type: none;
 }
 
-.header section nav ul {
+.header nav ul {
+/* Sets display to inline */
     display: inline-block;
     margin-left: 25px;
 }
